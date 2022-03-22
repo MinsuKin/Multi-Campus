@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="lab.mybatis.map.MapMapper">
+
+<!-- 메인 검색 결과   ##################################################################### -->
+
+	<!-- 전체 마커 표시용 -->
+	<select id="getMarkers" resultType="lab.spring.sikgu.model.StoreVO" parameterType="hashmap">
+		select sikgu_id, store_name, store_x, store_y, category_id, store_sigungu, store_dong
+		from store
+		where (store_x between #{W} and #{E})
+		and (store_y between #{S} and #{N})
+		order by sikgu_id
+	</select>
+	
+	<!-- 마커 클릭 시 (상점 상세) -->
+	<select id="getStoreDetail" resultType="lab.spring.sikgu.model.StoreVO" parameterType="string">
+		select * from store where store_id = #{store_id}
+	</select>
+
+<!-- / 메인 검색 결과   ##################################################################### -->
+
+<!-- 옵션 검색 결과   ##################################################################### -->
+
+	<select id="getSearchedMarkers" resultType="lab.spring.sikgu.model.StoreVO" parameterType="hashmap">
+		select store_id,store_name, store_x, store_y, ,store_sigungu, store_dong
+		from 
+		(select store_id,store_name, store_x, store_y, ,store_sigungu, store_dong
+		from store where category_id in 
+		<foreach item="category" collection="#{category_id}" open="(" close=")" separator=",">
+			#{category}
+		</foreach>)
+		<if test="store_name != null" >
+		where store_name like #{store_name}
+		</if>
+		<if test="store_dong != null">
+		where store_dong like #{store_dong}
+		</if>
+		<if test="email != null">
+		where email like #{email}
+		</if>
+	</select>
+
+<!-- / 옵션 검색 결과   ##################################################################### -->
+
+
+</mapper>
