@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="lab.mybatis.menu.MenuMapper">
+
+	<!-- 메뉴 표시용 -->
+	<select id="getMenu" resultType="lab.spring.sikgu.model.MenuVO">
+		select menu_num, menu_id, menu_name, menu_price
+		from menu
+		where menu_id = #{menu_id}
+		order by menu_num
+	</select>
+	
+   <insert id="insertMenu" parameterType="lab.spring.sikgu.model.MenuVO">
+  <selectKey keyProperty="menu_num" resultType="int" order="BEFORE">
+    select seq_menu.nextval from dual
+  </selectKey>
+  insert into menu
+    (menu_num,menu_id,menu_name,menu_price) values
+    (#{menu_num},#{menu_id},#{menu_name},#{menu_price})
+</insert>
+
+</mapper>

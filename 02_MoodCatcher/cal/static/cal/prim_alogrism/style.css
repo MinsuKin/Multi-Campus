@@ -1,0 +1,8 @@
+#wait {
+  padding: 10px;
+  position: absolute;
+}
+
+canvas {
+  position: relative;
+}
