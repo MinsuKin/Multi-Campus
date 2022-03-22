@@ -1,6 +1,7 @@
 # Samsung-Multi-Campus
-Big Data preprocessing and visualization course Projects by MINSU
-
+### Big Data preprocessing and visualization course Projects by MINSU
+Course certificate
+https://drive.google.com/file/d/1fB_YP-O5AjbUVb4Bkz8pKvjGv2gp7K_W/view
 
 
 # Moodcatcher (2019.11.25 – 2019.12.12)
