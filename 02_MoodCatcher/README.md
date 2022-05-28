@@ -1,5 +1,5 @@
 # Moodcatcher (2019.11.25 – 2019.12.12)
-Summary: Journal that shows your emotion and sentiment analysis with colorful visualization
+Summary: A Personal Diary that shows your emotion and sentiment analysis with colorful visualization
 
 > Backend: Django
 
