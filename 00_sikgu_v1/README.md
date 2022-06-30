@@ -8,5 +8,7 @@ Summary: Local restaurant information map of Gangnam district based on City of S
 https://drive.google.com/file/d/1HeYOdCVtyXag2qRPO7w89H8-y2_MpJVk/view?usp=sharing
 
 ## Viedo Record
+### Register&Login
 [![Register&Login](https://i.ytimg.com/vi_webp/UACtypGv1xs/maxresdefault.webp)](https://youtu.be/UACtypGv1xs) 
-[![Register&Login](https://i.ytimg.com/vi/SL_udH2MVpY/hqdefault.jpg)](https://youtu.be/SL_udH2MVpY) 
+### Search by Category
+[![Search by Category](https://i.ytimg.com/vi_webp/SL_udH2MVpY/sddefault.webp)](https://youtu.be/SL_udH2MVpY)
