@@ -3,7 +3,7 @@ Summary: A Personal Diary that shows your emotion and sentiment analysis with co
 
 > Preprocessed 4 years of Korean tweet and hashtag dataset from twitter(Tweepy api) and labelled them with the Korean NLP python package(KoNLPy) for the Sentiment Classification Model which can detect the percentage of 5 different emotions from a daily journal.
 
-> Implemented the daily journal calendar to allow CRUD operations and the visualization of sentiment analysis with the Prim’s algorithm. (HTML, CSS, JavaScript, D3js, Python, Django, SQLite).
+> Implemented the front-end (text editor for journal and calendar) to allow CRUD operations and the visualization of sentiment analysis with the Prim’s algorithm. (HTML, CSS, JavaScript, D3js, Python, Django, SQLite).
 
 ## Report
 ### Report_Moodcatcher.docx google viewer page(Korean)
