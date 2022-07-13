@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1flr2aDE-EeFfRWL-kdNWrUxc8Wl9869N/view?usp=shari
 ## Viedo Record
 ### Service Promotion Video
 [![Register&Login](https://i.ytimg.com/vi/2YVegh7vcF0/hqdefault.jpg)](https://youtu.be/2YVegh7vcF0) 
-### Register & Login
+### Register & Login (Ver.1)
 [![Register&Login](https://i.ytimg.com/vi_webp/UACtypGv1xs/maxresdefault.webp)](https://youtu.be/UACtypGv1xs) 
-### Search by Category
+### Search by Category (Ver.1)
 [![Search by Category](https://i.ytimg.com/vi_webp/SL_udH2MVpY/sddefault.webp)](https://youtu.be/SL_udH2MVpY)
