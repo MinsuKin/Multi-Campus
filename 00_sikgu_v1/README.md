@@ -1,7 +1,9 @@
 # Sikgu_v1 (2019.07.15 ~ 2019.08.06)
 Summary: Local restaurant information map of Gangnam district based on City of Seoul trading area data set
 
-> Backend: Spring
+> Implemented the login system. (Java, Spring, Mybatis, OracleSQL).
+
+> Implemented the kakao map.
 
 ## Report
 ### Presentation_SIKGU_v1.pptx google viewer page(Korean)
