@@ -3,7 +3,7 @@ Summary: Local restaurant information map of Gangnam district based on City of S
 
 > Implemented the login system. (Java, Spring, Mybatis, OracleSQL).
 
-> Implemented the kakao map and bussiness promotion pages.
+> Implemented the kakao map and business caterogy checker.
 
 ## Report
 ### Presentation_SIKGU_v1.pptx google viewer page(Korean)
