@@ -1,7 +1,9 @@
 # Sikgu_v2 (2019.09.23 ~ 2019.11.05)
 Summary: Added sales analysis by restaurant type and crossposting function for Facebook, Naver blog and youtube
 
-> Backend: Spring
+> Implemented cross-posting function on Facebook, Naver blog, and Youtube.
+
+> Added business promotion pages and sales analysis
 
 ## Report
 ### Report_SIKGU_v2.docx google viewer page(Korean)
