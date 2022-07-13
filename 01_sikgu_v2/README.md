@@ -1,5 +1,5 @@
 # Sikgu_v2 (2019.09.23 ~ 2019.11.05)
-Summary: Local restaurant information map of Gangnam district based on City of Seoul trading area data set
+Summary: A local restaurant marketing helper website of Gangnam district based on City of Seoul trading area data set
 
 > Implemented cross-posting function on Facebook, Naver blog, and Youtube.
 
