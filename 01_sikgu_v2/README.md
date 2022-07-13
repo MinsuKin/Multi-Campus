@@ -1,9 +1,13 @@
 # Sikgu_v2 (2019.09.23 ~ 2019.11.05)
-Summary: Added sales analysis by restaurant type and crossposting function for Facebook, Naver blog and youtube
+Summary: Local restaurant information map of Gangnam district based on City of Seoul trading area data set
 
 > Implemented cross-posting function on Facebook, Naver blog, and Youtube.
 
-> Added business promotion pages and sales analysis
+> Added restaurant promotion pages and sales analysis
+
+> Implemented the login system. (Java, Spring, Mybatis, OracleSQL).
+
+> Implemented the kakao map and business caterogy checker.
 
 ## Report
 ### Report_SIKGU_v2.docx google viewer page(Korean)
