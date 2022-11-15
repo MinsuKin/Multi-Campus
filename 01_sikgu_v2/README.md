@@ -15,7 +15,8 @@ https://drive.google.com/file/d/1A8hcNVXJ_nxolHCtwk1YVwhbsMkVOPhO/view?usp=shari
 ### Presentation_SIKGU_v2.pptx google viewer page(Korean)
 https://drive.google.com/file/d/1flr2aDE-EeFfRWL-kdNWrUxc8Wl9869N/view?usp=sharing
 
-## Viedo Record
+## 💻Viedo Record
+🖱(click image!)
 ### Service Promotion Video
 [![Register&Login](https://i.ytimg.com/vi/2YVegh7vcF0/hqdefault.jpg)](https://youtu.be/2YVegh7vcF0) 
 ### Register & Login (Ver.1)
