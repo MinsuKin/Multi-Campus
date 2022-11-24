@@ -1,7 +1,9 @@
 # Sikgu_v2 (2019.09.23 ~ 2019.11.05)
 Summary: A sales analysis and marketing helper tool for restaurants in Gangnam District, Seoul
 
-> Implemented cross-posting function with Facebook, Naver blog, and Youtube APIs. (JavaScript) 
+> Implemented social login using Facebook, Naver APIs. (JavaScript)
+> 
+> Implemented cross-posting function on Facebook, Naver blog, and Youtube. (JavaScript) 
 
 > Preprocessed Seoul City Woori Village Store Commercial Area Analysis Service Dataset for sales analysis page. (R)
 
