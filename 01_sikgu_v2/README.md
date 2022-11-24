@@ -2,10 +2,10 @@
 Summary: A sales analysis and marketing helper tool for restaurants in Gangnam District, Seoul
 
 > Implemented social login using Facebook, Naver APIs. (JavaScript)
-> 
+
 > Implemented cross-posting function on Facebook, Naver blog, and Youtube. (JavaScript) 
 
-> Preprocessed Seoul City Woori Village Store Commercial Area Analysis Service Dataset for sales analysis page. (R)
+> Preprocessed Seoul City Woori Village Store Commercial Area Analysis Service Dataset for sales analysis. (R)
 
 > Added restaurant sales analysis pages (D3.js)
 
