@@ -1,13 +1,14 @@
 # Sikgu_v2 (2019.09.23 ~ 2019.11.05)
-Summary: A local restaurant marketing helper website of Gangnam district based on City of Seoul trading area data set
+Summary: A sales analysis and marketing helper tool for restaurants in Gangnam District, Seoul
 
-> Implemented cross-posting function on Facebook, Naver blog, and Youtube.
+> Implemented cross-posting function with Facebook, Naver blog, and Youtube APIs. (JavaScript) 
 
-> Added restaurant promotion pages and sales analysis
+> Preprocessed Seoul City Woori Village Store Commercial Area Analysis Service Dataset for sales analysis page. (R)
+
+> Added restaurant sales analysis pages (D3.js)
 
 > Implemented the login system. (Java, Spring, Mybatis, OracleSQL).
 
-> Implemented the kakao map and business caterogy checker.
 
 ## Report
 ### Report_SIKGU_v2.docx google viewer page(Korean)
