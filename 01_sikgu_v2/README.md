@@ -7,8 +7,6 @@ Summary: A sales analysis and marketing helper tool for restaurants in Gangnam D
 
 > Added restaurant sales analysis pages (D3.js)
 
-> Implemented the login system. (Java, Spring, Mybatis, OracleSQL).
-
 
 ## Report
 ### Report_SIKGU_v2.docx google viewer page(Korean)
