@@ -1,4 +1,4 @@
-# Sikgu_v2 (2019.09.23 ~ 2019.11.05)
+# Sikgu_v2
 Summary: A sales analysis and marketing helper tool for restaurants in Gangnam District, Seoul
 
 > Implemented social login using Facebook, Naver APIs. (JavaScript)
