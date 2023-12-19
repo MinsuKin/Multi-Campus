@@ -1,4 +1,4 @@
-# Moodcatcher (2019.11.25 – 2019.12.12)
+# Moodcatcher
 Summary: A Personal Diary that shows your emotion and sentiment analysis with colorful visualization
 
 > Preprocessed 4 years of Korean tweet and hashtag dataset from twitter(Tweepy api) and labelled them with the Korean NLP python package(KoNLPy) for the Sentiment Classification Model which can detect the percentage of 5 different emotions from a daily journal.
